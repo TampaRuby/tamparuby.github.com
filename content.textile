@@ -1,4 +1,4 @@
-h1. Hello World
+h1. Tampa Ruby Brigade
 
 h2. Regular Meetings
 
