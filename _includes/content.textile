@@ -1,0 +1,19 @@
+h1. Tampa Ruby Brigade
+
+h2. Regular Meetings
+
+We meet on the 3rd Thursday of every month.
+
+| *2009* |  |
+| Jan | Arduino |
+| Feb | Git |
+
+h2. Potential Future Meeting Topics
+
+* Ruby GUI Development
+* Testing Frameworks
+* Text Editors (jihad)
+
+h3. #tampa.rb
+
+Tampa.rb's IRC channel on freenode, is #tampa.tb
