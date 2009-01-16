@@ -1,0 +1,6 @@
+---
+layout: post
+title: #tampa.rb
+---
+
+Tampa.rb's IRC channel on freenode, is #tampa.tb
